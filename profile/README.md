@@ -27,6 +27,14 @@ Python Togo is a community of enthusiasts, developers, students, and professiona
 Join our server to chat, ask questions, and take part in our activities.  
 👉 [Join our Discord](https://pytogo.org/discord) *(replace with your actual link)*
 
+## Social links & Websites
+
+- [**X/Twitter**](https://x.com/pytogo_org)
+- [**LinkedIn**](https://linkedin.com/company/python-togo)
+- <a rel="me" href="https://techhub.social/@pytogo_org">**Mastodon**</a>
+- [**Official site**](https://pytogo.org)
+- [**Official PyCon Togo site**](https://pycontg.pytogo.org)
+
 ---
 
 ## 🛠️ Projects
@@ -82,6 +90,14 @@ Python Togo est une communauté de passionné·e·s, développeur·se·s, étudi
 📢 **Serveur Discord**  
 Rejoignez notre serveur pour discuter, poser vos questions et participer à nos activités.  
 👉 [Rejoindre le serveur Discord](https://pytogo.org/discord) *(remplacez par le bon lien)*
+
+## Social links & Websites
+
+- [**X/Twitter**](https://x.com/pytogo_org)
+- [**LinkedIn**](https://linkedin.com/company/python-togo)
+- <a rel="me" href="https://techhub.social/@pytogo_org">**Mastodon**</a>
+- [**Official site**](https://pytogo.org)
+- [**Official PyCon Togo site**](https://pycontg.pytogo.org)
 
 ---
 

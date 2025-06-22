@@ -39,10 +39,10 @@ Join our server to chat, ask questions, and take part in our activities.
 
 ## 🛠️ Projects
 
-- [ ] Build educational resources  
-- [ ] Organize local events  
-- [ ] Contribute to open-source Python projects  
-- [ ] Mentorship for beginners  
+- [x] Build educational resources  
+- [x] Organize local events  
+- [x] Contribute to open-source Python projects  
+- [x] Mentorship for beginners  
 
 Feel free to open an issue or a pull request!
 
@@ -103,10 +103,10 @@ Rejoignez notre serveur pour discuter, poser vos questions et participer à nos 
 
 ## 🛠️ Projets
 
-- [ ] Création de ressources éducatives  
-- [ ] Organisation d'événements locaux  
-- [ ] Contributions à des projets Python open source  
-- [ ] Mentorat pour débutant·e·s
+- [x] Création de ressources éducatives  
+- [x] Organisation d'événements locaux  
+- [x] Contributions à des projets Python open source  
+- [x] Mentorat pour débutant·e·s
 
 N'hésitez pas à ouvrir une *issue* ou une *pull request* !
 

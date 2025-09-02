@@ -56,7 +56,7 @@ All contributions are welcome! Please read the contribution guidelines before ge
 
 ## 📄 License
 
-MIT License. See the [LICENSE](./LICENSE) file for more information.
+Apache 2.0 License. See the [LICENSE](./LICENSE) file for more information.
 
 ---
 
@@ -120,6 +120,6 @@ Toute contribution est la bienvenue ! Merci de lire le guide de contribution ava
 
 ## 📄 Licence
 
-Licence MIT. Voir le fichier [LICENSE](./LICENSE) pour plus d’informations.
+Licence Apache 2.0. Voir le fichier [LICENSE](./LICENSE) pour plus d’informations.
 
 ---
